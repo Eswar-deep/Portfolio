@@ -19,26 +19,6 @@ A modern, responsive portfolio website template built with React, Vite, and Tail
 - **Icons**: Heroicons
 - **Meta Tags**: React Helmet
 
-## 📦 Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/portfolio.git
-cd portfolio
-```
-
-2. Install dependencies:
-```bash
-npm install
-```
-
-3. Start the development server:
-```bash
-npm run dev
-```
-
-4. Open your browser and navigate to `http://localhost:5173`
-
 ## 🎨 Customization Guide
 
 ### 1. Personal Information
